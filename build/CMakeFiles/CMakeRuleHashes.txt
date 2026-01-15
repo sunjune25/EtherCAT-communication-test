@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+6859a11cd1f20ffbb0939b3495c2a9d3 samples/eni_test/sample-eni.c

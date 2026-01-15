@@ -1,0 +1,1 @@
+/usr/bin/cc -O2 -g -DNDEBUG CMakeFiles/ec_sample.dir/ec_sample.o -o ec_sample  ../../libsoem.a -lpthread -lrt

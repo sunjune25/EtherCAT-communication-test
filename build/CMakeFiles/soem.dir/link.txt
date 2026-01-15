@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsoem.a CMakeFiles/soem.dir/src/ec_base.o CMakeFiles/soem.dir/src/ec_coe.o CMakeFiles/soem.dir/src/ec_config.o CMakeFiles/soem.dir/src/ec_dc.o CMakeFiles/soem.dir/src/ec_eoe.o CMakeFiles/soem.dir/src/ec_foe.o CMakeFiles/soem.dir/src/ec_main.o CMakeFiles/soem.dir/src/ec_print.o CMakeFiles/soem.dir/src/ec_soe.o CMakeFiles/soem.dir/osal/linux/osal.o CMakeFiles/soem.dir/oshw/linux/oshw.o CMakeFiles/soem.dir/oshw/linux/nicdrv.o
+/usr/bin/ranlib libsoem.a

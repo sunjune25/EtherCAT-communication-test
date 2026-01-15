@@ -1,0 +1,14 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/decs01/SOEM/build/cmake_install.cmake",
+		"/home/decs01/SOEM/build/samples/ec_sample/cmake_install.cmake",
+		"/home/decs01/SOEM/build/samples/eepromtool/cmake_install.cmake",
+		"/home/decs01/SOEM/build/samples/firm_update/cmake_install.cmake",
+		"/home/decs01/SOEM/build/samples/simple_ng/cmake_install.cmake",
+		"/home/decs01/SOEM/build/samples/slaveinfo/cmake_install.cmake",
+		"/home/decs01/SOEM/build/samples/eoe_test/cmake_install.cmake",
+		"/home/decs01/SOEM/build/samples/eni_test/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

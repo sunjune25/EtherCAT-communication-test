@@ -1,0 +1,1 @@
+/usr/bin/cc -O2 -g -DNDEBUG CMakeFiles/eni_test.dir/eni_test.o "CMakeFiles/eni_test.dir/sample-eni.o" -o eni_test  ../../libsoem.a -lpthread -lrt

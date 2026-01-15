@@ -1,0 +1,1 @@
+/usr/bin/cc -O2 -g -DNDEBUG CMakeFiles/simple_ng.dir/simple_ng.o -o simple_ng  ../../libsoem.a -lpthread -lrt

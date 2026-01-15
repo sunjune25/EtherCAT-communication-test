@@ -1,0 +1,1 @@
+/usr/bin/cc -O2 -g -DNDEBUG CMakeFiles/eoe_test.dir/eoe_test.o -o eoe_test  ../../libsoem.a -lpthread -lrt

@@ -1,0 +1,1 @@
+/usr/bin/cc -O2 -g -DNDEBUG CMakeFiles/slaveinfo.dir/slaveinfo.o -o slaveinfo  ../../libsoem.a -lpthread -lrt
